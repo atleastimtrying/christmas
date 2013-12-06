@@ -13,6 +13,8 @@ messages =
   'faith': 'MX Faith'
   'solstice': 'solstice'
   'flumes': 'steve'
+  'smart': 'smart'
+  'defacto': 'defacto'
   'thatsbrave': 'vaughn'
   'vm': "vector meldrew"
   'kl': "To all at Kingsland Linassi, Merry Christmas and a Happy New Year!<br> Anders"
