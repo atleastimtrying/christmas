@@ -11,7 +11,6 @@ messages =
   'juju': 'MX juju'
   'error': 'MX Error'
   'faith': 'MX Faith'
-  'kwiboo': 'kwiboo'
   'solstice': 'solstice'
   'flumes': 'steve'
   'thatsbrave': 'vaughn'
